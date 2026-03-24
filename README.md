@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de softw
 ## ⚙️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,postgres,mysql,docker,git,github,vscode,vue" />
+  <img src="https://skillicons.dev/icons?i=java,js,postgres,mysql,docker,git,github,vscode,vue,react" />
 </p>
 
 ---
