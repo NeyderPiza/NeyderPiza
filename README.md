@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**NeyderPiza/NeyderPiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Neider Piza
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería de Sistemas  
+💻 Interesado en desarrollo de software, bases de datos y automatización  
+📍 Colombia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+- 💻 Lenguajes: Java, JavaScript, SQL
+- 🗄️ Bases de datos: PostgreSQL, MySQL
+- ⚙️ Herramientas: Git, Docker, NetBeans
+- 🌐 Frontend: Vue
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 Sistema Hospitalario  
+👉 https://github.com/NeyderPiza/scribs-base-de-datos-hospital  
+
+🔹 Predicción de temperatura (Machine Learning)  
+👉 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander  
+
+🔹 Sistema de gestión finca  
+👉 https://github.com/NeyderPiza/proyecto_finca  
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeyderPiza&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto
+
+📧 Email: tuemail@gmail.com  
+💼 LinkedIn: (pon aquí tu perfil)
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Arquitectura de software
+- Desarrollo backend
+- Inteligencia artificial
