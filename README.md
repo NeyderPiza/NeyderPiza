@@ -23,8 +23,8 @@ Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santande
 
 ## Proyectos destacados
 
-### Sistema de gestión hospitalaria
-🔗 https://github.com/NeyderPiza/scribs-base-de-datos-hospital
+### Aplicativo de gestión de Finca Ganadera
+🔗 https://github.com/NeyderPiza/Mi_FINCA_APP
 
 ###  Predicción de temperatura
 🔗 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander
