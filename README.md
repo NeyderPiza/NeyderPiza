@@ -1,40 +1,40 @@
 ## Hi there 👋
-# 👨‍💻 Neyder Piza
+# Neider Piza
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💡 Enfocado en desarrollo backend, bases de datos y soluciones tecnológicas  
-📍 Colombia  
+📍 Santander, Colombia  
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y el diseño de soluciones tecnológicas enfocadas en problemas reales, especialmente en sectores como salud, automatización y análisis de datos.
+Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santander con interés en el desarrollo de software y el diseño de soluciones tecnológicas enfocadas en problemas reales, especialmente en sectores como salud, automatización y análisis de datos.
 
 ---
 
 ## ⚙️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,postgres,mysql,docker,git,github,vscode,vue,react" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,js,postgres,mysql,docker,git,github,vscode,vue,react" />
 </p>
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
-### 🏥 Sistema de gestión hospitalaria
+### Sistema de gestión hospitalaria
 🔗 https://github.com/NeyderPiza/scribs-base-de-datos-hospital
 
-### 🌡️ Predicción de temperatura
+###  Predicción de temperatura
 🔗 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander
 
-### 🌾 Sistema de gestión de finca
+###  Sistema de gestión de finca
 🔗 https://github.com/NeyderPiza/proyecto_finca
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeyderPiza&show_icons=true&theme=tokyonight" />
@@ -43,7 +43,7 @@ Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de softw
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="left">
   <a href="https://github.com/NeyderPiza" target="_blank">
@@ -56,7 +56,7 @@ Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de softw
 
 ---
 
-## 🚀 Objetivo profesional
+## Objetivo profesional
 
 Desarrollarme como ingeniero de software participando en proyectos reales que integren tecnología, eficiencia y escalabilidad.
 
