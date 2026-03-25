@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santande
 ## ⚙️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,js,postgres,mysql,docker,git,github,vscode,vue,react" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,js,postgres,mysql,docker,git,github,vscode,vue,react" />
 </p>
 
 ---
