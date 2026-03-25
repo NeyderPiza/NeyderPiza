@@ -34,15 +34,6 @@ Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santande
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeyderPiza&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyderPiza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Contacto
 
 <p align="left">
