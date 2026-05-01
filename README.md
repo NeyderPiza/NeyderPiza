@@ -32,7 +32,7 @@ mis conocimientos técnicos, desarrollarme profesionalmente y generar valor desd
 🔗 https://github.com/NeyderPiza/AgroInventario
 
 ###  Cinemaxa}
-🔗 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander
+🔗 https://github.com/NeyderPiza/ProyectoEntornosFinal
 
 
 ---
