@@ -9,7 +9,12 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santander con interés en el desarrollo de software y el diseño de soluciones tecnológicas enfocadas en problemas reales, especialmente en sectores como salud, automatización y análisis de datos.
+Estudiante de octavo semestre de Ingeniería de Sistemas con enfoque en el desarrollo de
+software Full-Stack y pasión por la resolución de problemas mediante tecnología. Cuento
+con experiencia práctica demostrable a través de proyectos integrales utilizando ecosistemas
+modernos. Soy una persona proactiva, orientada a resultados y con gran capacidad de
+autoaprendizaje. Busco una oportunidad profesional en modalidad remota donde pueda aportar
+mis conocimientos técnicos, desarrollarme profesionalmente y generar valor desde el primer día.
 
 ---
 
@@ -23,10 +28,10 @@ Soy estudiante de Ingeniería de Sistemas del Universidad Industrial de Santande
 
 ## Proyectos destacados
 
-### Aplicativo de gestión de Finca Ganadera
+### AgroInventario
 🔗 https://github.com/NeyderPiza/Mi_FINCA_APP
 
-###  Predicción de temperatura
+###  Cinemaxa}
 🔗 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander
 
 ###  Sistema de gestión de finca
