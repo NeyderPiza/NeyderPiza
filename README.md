@@ -29,13 +29,11 @@ mis conocimientos técnicos, desarrollarme profesionalmente y generar valor desd
 ## Proyectos destacados
 
 ### AgroInventario
-🔗 https://github.com/NeyderPiza/Mi_FINCA_APP
+🔗 https://github.com/NeyderPiza/AgroInventario
 
 ###  Cinemaxa}
 🔗 https://github.com/NeyderPiza/Proyecto_Prediccion_Temperatura_Santander
 
-###  Sistema de gestión de finca
-🔗 https://github.com/NeyderPiza/proyecto_finca
 
 ---
 
